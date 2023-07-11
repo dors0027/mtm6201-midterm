@@ -78,7 +78,6 @@ a:visited, a:link {
     border-color: white;
     background-color: transparent;
     transition:all .5s;
-
 }
 
 .signup:hover{
@@ -147,10 +146,6 @@ main div{
     transform: scale(1.05);
 }
 
-.content{
-    
-}
-
 .phone{
     width:330px;
 }
@@ -166,8 +161,6 @@ main div{
 .custom{
     width:330px;
 }
-
-
 
 /* Footer */
 
