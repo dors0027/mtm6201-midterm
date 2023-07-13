@@ -11,6 +11,11 @@ body{
     animation-iteration-count: infinite;
 }
 
+.skiplink{
+    font-size: 9px;
+    margin-left:20px;
+}
+
 .top{
     height: 500px;
 }
